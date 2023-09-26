@@ -1,0 +1,15 @@
+{
+  "short_name": "planchabragas",
+  "name": "Plancha Bragas",
+  "icons": [
+    {
+      "src": "https://progredemente.com/resources/planchabragas.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
